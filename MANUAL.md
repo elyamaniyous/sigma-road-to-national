@@ -1,8 +1,12 @@
 # 📖 Manuel Utilisateur — SIGMA : Road to National
 
 > **"Ta route vers le 20/20 commence ici."**
-> 
+>
 > Ce manuel est ton guide complet pour maîtriser SIGMA et décrocher ton 20/20 au Baccalauréat national 🇲🇦
+
+<p align="center">
+  <img src="docs/screenshots/01-splash.png" width="280" alt="Écran d'accueil SIGMA"/>
+</p>
 
 ---
 
@@ -59,6 +63,10 @@ Appuie sur ta filière. C'est tout ! Tu arrives directement sur le tableau de bo
 ---
 
 ## 🏠 Le Tableau de Bord
+
+<p align="center">
+  <img src="docs/screenshots/02-dashboard.png" width="280" alt="Tableau de bord"/>
+</p>
 
 C'est ton QG. Voici ce que tu vois :
 
@@ -143,6 +151,10 @@ Trois jauges circulaires montrent ta maîtrise des 3 grandes compétences des Su
 
 La carte de progression montre les **6 niveaux** du parcours :
 
+<p align="center">
+  <img src="docs/screenshots/03-level-map.png" width="280" alt="Carte des niveaux"/>
+</p>
+
 ```
 ✓ ─── Reconnaissance         10/20  (débloqué ✅)
 │
@@ -220,6 +232,10 @@ La carte de progression montre les **6 niveaux** du parcours :
 
 ### Type 1 — 🎯 QCM (Questions à Choix Multiples)
 
+<p align="center">
+  <img src="docs/screenshots/04-exercise-mcq.png" width="280" alt="Exercice QCM"/>
+</p>
+
 **Comment ça marche :**
 1. Lis l'énoncé avec la formule mathématique (rendue en LaTeX)
 2. Appuie sur la bonne réponse parmi A / B / C
@@ -243,6 +259,10 @@ Soit uₙ = (n²-1)/(n²+1). Quelle affirmation est vraie ?
 ---
 
 ### Type 2 — 📝 Texte à Trous (Dropdown)
+
+<p align="center">
+  <img src="docs/screenshots/05-exercise-dropdown.png" width="280" alt="Exercice Texte à trous"/>
+</p>
 
 **Comment ça marche :**
 1. Lis chaque étape du raisonnement
@@ -270,6 +290,10 @@ Calculer lim(n→+∞) (n+5)/(n+1)
 ---
 
 ### Type 3 — 🧩 Glisser-Déposer (Drag & Drop)
+
+<p align="center">
+  <img src="docs/screenshots/06-exercise-dragdrop.png" width="280" alt="Exercice Glisser-Déposer"/>
+</p>
 
 **Comment ça marche :**
 - **Sur ordinateur :** Clique et maintiens un bloc, puis fais-le glisser dans la case numérotée
@@ -346,6 +370,11 @@ Le bouton **"💡 Astuce du Prof"** est disponible sur tous les exercices.
 Après avoir validé :
 
 **Si tu as bon :**
+
+<p align="center">
+  <img src="docs/screenshots/07-feedback-correct.png" width="280" alt="Feedback correct"/>
+</p>
+
 ```
 ✅  Zwin! 🔥
     Tu gères comme un boss
@@ -354,6 +383,11 @@ Après avoir validé :
 ```
 
 **Si tu as faux :**
+
+<p align="center">
+  <img src="docs/screenshots/08-feedback-wrong.png" width="280" alt="Feedback incorrect"/>
+</p>
+
 ```
 ❌  Makayn Mouchkil 💪
     Zid 7awel, ghadi toksal
@@ -393,7 +427,23 @@ Quand tu fais une erreur :
 
 ---
 
+### 📊 Écran de Résultats
+
+À la fin de chaque niveau, un écran récapitulatif s'affiche :
+
+<p align="center">
+  <img src="docs/screenshots/09-results.png" width="280" alt="Écran de résultats"/>
+</p>
+
+Il affiche ton **score**, ton **combo maximum**, le **temps total**, et les **XP gagnés**.
+
+---
+
 ## 🏅 Les Badges
+
+<p align="center">
+  <img src="docs/screenshots/10-badges.png" width="280" alt="Écran des badges"/>
+</p>
 
 9 badges à débloquer. Chaque badge est une reconnaissance de ta progression :
 
@@ -416,6 +466,10 @@ Quand tu fais une erreur :
 ---
 
 ## 🏆 Le Classement
+
+<p align="center">
+  <img src="docs/screenshots/11-leaderboard.png" width="280" alt="Classement"/>
+</p>
 
 Accède au classement via l'icône 🏆 **"Classement"** en bas.
 
